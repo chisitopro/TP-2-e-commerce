@@ -73,7 +73,7 @@ PRODUCTOS = [
         "dimensiones_cm": "15 x 9 x 3",
         "ubicacion": "Buenos Aires, Argentina",
         "etiquetas": ["nintendo", "8 bits", "videojuegos retro"],
-        "imagen": "https://placehold.co/400x300?text=Game+Boy+1989",
+        "imagen": "nintendo.jpg",
     },
     {
         "producto_id": "9c8b7a6d-5e4f-3a2b-1c0d-e9f8a7b6c5d4",
@@ -99,7 +99,7 @@ PRODUCTOS = [
         "dimensiones_cm": "31 x 31 x 1",
         "ubicacion": "Córdoba, Argentina",
         "etiquetas": ["vinilo", "beatles", "música 60s"],
-        "imagen": "https://placehold.co/400x300?text=Vinilo+Abbey+Road",
+        "imagen": "vinilo.jpeg",
     },
     {
         "producto_id": "4d3c2b1a-0f9e-8d7c-6b5a-4938271605f4",
@@ -125,7 +125,7 @@ PRODUCTOS = [
         "dimensiones_cm": "35 x 30 x 20",
         "ubicacion": "Rosario, Argentina",
         "etiquetas": ["máquina de escribir", "art déco", "restaurado"],
-        "imagen": "https://placehold.co/400x300?text=Remington+Rand",
+        "imagen": "maquina.jpg",
     },
 ]
 
