@@ -47,7 +47,7 @@ PRODUCTOS = [
         "dimensiones_cm": "18 x 10 x 4",
         "ubicacion": "Resistencia, Chaco, Argentina",
         "etiquetas": ["fotografía analógica", "polaroid", "vintage 70s"],
-        "imagen": "https://placehold.co/400x300?text=Polaroid+SX-70",
+        "imagen": "polaroid.jpg",
     },
     {
         "producto_id": "1a2b3c4d-5e6f-7081-92a3-b4c5d6e7f809",
